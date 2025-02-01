@@ -1,0 +1,1 @@
+Number of vehicles with valid-licensed drivers involved in hit and run: 74
